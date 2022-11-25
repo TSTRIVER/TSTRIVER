@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSTRIVER
 - 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...Frontend development
+- 🌱 I’m currently learning ...BackEnd development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
