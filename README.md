@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Full Stack Development.
 
-- :zap: Actively solving problems on LeetCode
+- :zap: Actively solving problems on LeetCode and GFG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taaha-2a53671b0/)
  ---
