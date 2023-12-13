@@ -35,4 +35,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  [![GitHub Streak](https://streak-stats.demolab.com?user=TStriver&theme=dark&border_radius=50)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,javascript,bootstrap,tailwind,nodejs,mongodb,express,postman,git,mui,cpp,github,redux,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,javascript,bootstrap,tailwind,nodejs,mongodb,express,postman,git,mui,cpp,github,redux,vscode,docker&perline=8)](https://skillicons.dev)
