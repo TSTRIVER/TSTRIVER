@@ -22,7 +22,7 @@
 </div>
 ---
 
-### :man_technologist: About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
 - :telescope: I’m a Pre-Final Year Student at IIIT Bhopal and contributing to frontend and backend for building web applications.
 
@@ -34,5 +34,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  ---
  [![GitHub Streak](https://streak-stats.demolab.com?user=TStriver&theme=dark&border_radius=50)](https://git.io/streak-stats)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,javascript,bootstrap,tailwind,nodejs,mongodb,express,postman,git,mui,cpp,github,redux,vscode,docker&perline=8)](https://skillicons.dev)
