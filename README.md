@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=TSTRIVER&style=flat-square&color=blue" alt="" align="center"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" align="center"/>
 
 <h1 align="center">
   Hey there
