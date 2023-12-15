@@ -37,4 +37,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,javascript,bootstrap,tailwind,nodejs,mongodb,express,postman,git,mui,cpp,github,redux,vscode,docker&perline=8)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TSTRIVER)](https://github.com/TSTRIVER/github-readme-stats)
