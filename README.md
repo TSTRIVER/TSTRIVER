@@ -13,9 +13,6 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=TSTRIVER&style=flat-square&color=blue" alt="" align="center"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" align="center"/>
-![TSTRIVER's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSTRIVER&show_icons=true&theme=radical)
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
