@@ -10,6 +10,9 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammad-taaha-2a53671b0/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> 
+  <a href="https://www.codechef.com/users/taaha_striver">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"alt="Codechef Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=TSTRIVER&style=flat-square&color=blue" alt="" align="center"/>
